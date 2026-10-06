@@ -131,7 +131,7 @@ Esses dados a respeito do ganho incremental e das conversões orgânicas também
 ## Etapa 06 — Visualização dos dados
 
 Nessa etapa, foram usadas as bibliotecas MatPlotLib e Seaborn. Os códigos estão presentes no notebook `visualizacaoDados.ipynb`.
-
+<br>
 
 <p align="center">
   <img src="imagens/output.png" width="700">
