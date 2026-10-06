@@ -64,13 +64,25 @@ Avaliar se a campanha de marketing é eficaz baseado na taxa de conversão dos c
 
 No início do design do experimento foi estabelecido:
 
+
+<p align="center">
+  <img src="imagens/hipoteses.png" width="700">
+</p>
+
 ### 2.2 Escolha das variáveis
 
 Em seguida, as variáveis foram definidas.
+<p align="center">
+  <img src="imagens/escolha_variavel.png" width="700">
+</p>
 
 ### 2.3 Separação dos grupos
 
 Nessa etapa, foi usado o cálculo do tamanho amostral mínimo teórico para definir a menor quantidade de dados necessária nas amostras para que os resultados sejam confiáveis e representativos.
+
+<p align="center">
+  <img src="imagens/tamanho_amostral.png" width="700">
+</p>
 
 Para realizar esse cálculo para achar o tamanho mínimo da amostra, foi utilizada a biblioteca Statsmodels do Python. Foram consideradas uma taxa de conversão de referência (baseline) de 5%, um efeito mínimo detectável (MDE) de 1 ponto percentual, nível de significância de 5%, poder estatístico de 80%, teste bicaudal e proporção de 1:1 entre os grupos de tratamento e controle. O cálculo permite estimar a quantidade mínima de usuários necessária em cada grupo para que o experimento tenha o poder estatístico planejado para detectar o efeito definido.
 
@@ -119,6 +131,19 @@ Esses dados a respeito do ganho incremental e das conversões orgânicas também
 ## Etapa 06 — Visualização dos dados
 
 Nessa etapa, foram usadas as bibliotecas MatPlotLib e Seaborn. Os códigos estão presentes no notebook `visualizacaoDados.ipynb`.
+
+
+<p align="center">
+  <img src="imagens/output.png" width="700">
+</p>
+
+<p align="center">
+  <img src="imagens/output1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="imagens/output3.png" width="700">
+</p>
 
 ---
 
