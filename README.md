@@ -1,4 +1,4 @@
-# Projeto 4 — Análise de efetividade de uma campanha de marketing
+# Projeto 4 — Análise de efetividade de campanha de marketing
 
 ## Contexto e Problema de Negócio
 
