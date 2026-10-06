@@ -136,11 +136,15 @@ Nessa etapa, foram usadas as bibliotecas MatPlotLib e Seaborn. Os códigos estã
 <p align="center">
   <img src="imagens/output.png" width="700">
 </p>
+<br>
 
+---
 <p align="center">
   <img src="imagens/output1.png" width="700">
 </p>
+<br>
 
+---
 <p align="center">
   <img src="imagens/output3.png" width="700">
 </p>
